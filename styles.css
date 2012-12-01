@@ -1,0 +1,38 @@
+body {
+	position:relative;
+	cursor:pointer; 
+	overflow: hidden;
+	width: 16600px;
+	height: 12900px;
+}
+
+#draggable{
+	position: absolute;
+	height: 200px;
+	width:400px;
+	font-family:"Book Antiqua", Helvetica, sans-sarif;
+	font-style:normal;
+	font-weight: 500;
+	font-size:24px;
+	color:#58585A;
+}
+
+a:link{ 
+	color:#58585A; 
+	text-decoration:none; 
+	}
+
+a:visited{ 
+	color:#58585A; 
+	text-decoration:none; 
+	}
+
+a:hover{ 
+	color:red; 
+	text-decoration:none; 
+	}
+
+a:active{ 
+	color:red; 
+	text-decoration:none; 
+	}
